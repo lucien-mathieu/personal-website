@@ -1,0 +1,9 @@
+:root{
+    /* General colors */
+    --synth-orange: #ffbe0b ;
+    --synth-pink: #e66465;
+
+    /* Links colors */
+    --link-blue: #0000EE;
+    --link-visited: #551A8B;
+}
